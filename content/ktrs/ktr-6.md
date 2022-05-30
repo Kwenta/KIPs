@@ -1,7 +1,7 @@
 ---
-ktr: 5
+ktr: 6
 title: marketingDAO discretionary budget
-status: Drafted
+status: Draft
 author: Burt Rock (@BurtRock)
 created: <2022-05-20>
 ---
