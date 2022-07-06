@@ -16,7 +16,7 @@ Leveraging Gelato's keeper system, Kwenta will enable the automation of orders f
 
 ## Motivation
 
-Market orders are the only available order type for Kwenta futures at the moment. There are trading benefits by allowing orders to execute in the future based on defined conditions. 
+Market orders are the only available order type (next-price orders are market orders under the hood) for Kwenta futures at the moment. There are trading benefits by allowing orders to execute in the future based on defined conditions. 
 
 ## Specification
 
@@ -30,21 +30,23 @@ Currently only one order (limit or stop) can be active for a market.
 
 ### Slippage
 
-If the next oracle price falls below a given price during a limit buy order, (ie. $400 to buy ETH & new oracle price = $398) the order will experience positive slippage and will execute at $398.
+Users specify a price for the execution of their order, however trades are always executed at the current oracle price. Thus, a trader's buy order may be filled at a price below their specified order resulting in positive slippage. Similarly, a trader's stop loss may trigger at a price below their specified order resulting in negative slippage. Below are detailed examples of each scenario:
 
-If the next oracle price falls below a given price for a stop loss order, (ie. $400 stop loss & new oracle price = $398) the order will experience negative slippage and will execute at $398.
+- If the next oracle price falls below a given limit price during for an order to open a long, (ie. $400 to buy ETH & new oracle price = $398) the order will experience positive slippage and will execute at $398.
+
+- If the next oracle price falls below a given stop loss price for an order to close a long, (ie. $400 stop loss & new oracle price = $398) the order will experience negative slippage and will execute at $398.
 
 ### Rationale & User Flows
 
 - As a **trader** I want:
     - To gain exposure at a particular price:
-        - By placing a limit buy to buy an asset at a given price or better.
-    - To reduce risk on a bounce:
-        - By placing a limit sell to sell an asset at a given price or better. 
-    - To catch a rising trend:
-        - By placing a buy stop order to purchase at a given price or higher.
+        - By placing a limit open to buy/sell an asset at a given price or better.
+    - To reduce risk on a bounce or take profits on a position:
+        - By placing a limit close to sell/buyback an asset at a given price or better. 
+    - To catch a trend:
+        - By placing a stop order to enter a trade at a given price.
     - To cap downside on a trade:
-        - By placing a stop loss order to sell a declining asset at a specified price.
+        - By placing a stop loss order to sell a declining asset (if long) or buy a rising asset (if short) at a given price.
 
 ### Technical Specification
 
@@ -76,7 +78,7 @@ function freeMargin() public view returns (uint256);
 
 ### Fee Structure
 
-Fees (TBD) will be charged on positive slippage of a limit order. See section on *Slippage*.
+Fees (TBD) are charged for each advanced order executed. These parameters will be controlled through governance.
 
 ## Copyright
 
