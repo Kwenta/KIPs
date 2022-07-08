@@ -22,11 +22,9 @@ Market orders are the only available order type (next-price orders are market or
 
 Advanced orders are now feasible as a result of "margin accounts" introduced in [KIP-18: Cross Margin](./kip-18.md).
 
-A trader can specify a limit order or stop market order and register the task with Gelato. If the specified condition evaluates true, Gelato keepers will execute the order on behalf of the trader. 
+A trader can specify a limit order or stop market order and register the task with Gelato. If the specified condition evaluates true, Gelato keepers will execute the order on behalf of the trader. Keeper fees are paid in ETH (on execution) and will be stored in the margin account contract during order placement.
 
 Margin will be committed for an advanced order meaning it cannot be used for any other order or cross margin while the order is active. 
-
-Currently only one order (limit or stop) can be active for a market.
 
 ### Slippage
 
@@ -78,7 +76,7 @@ function freeMargin() public view returns (uint256);
 
 ### Fee Structure
 
-Fees (TBD) are charged for each advanced order executed. These parameters will be controlled through governance.
+Fees (TBD) are charged for each advanced order executed. There are two new fees users are accountable for, the keeper fee (gelato) and the Kwenta fee. Kwenta fee parameters will be controlled through governance.
 
 ## Copyright
 
