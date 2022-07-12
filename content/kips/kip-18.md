@@ -78,6 +78,8 @@ An expectation of typical cross margin is rebalancing. This iteration does not i
 
 The margin account (and respectively cross margin) system could be extended to support a one-to-many (EOA -> margin account**s**) mapping. This would enable multiple positions per singular market per user. For example, a trader could open a 10x position in both directions to bet on market volatility (with an expectation that one position will be liquidated).
 
+Another potential feature is the ability to allow keepers to "top up" margin on nearly liquidated positions. Margin would be drawn from the margin account (idle margin). Enabling automatic top off could keep deliquent positions afloat during turbulent trading sessions. This would require an integration with Gelato and external access to trader margins.
+
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
