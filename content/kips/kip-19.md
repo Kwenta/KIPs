@@ -76,7 +76,7 @@ function freeMargin() public view returns (uint256);
 
 ### Fee Structure
 
-Fees are charged for each advanced order executed. There are two new fees users are accountable for, the keeper fee (gelato) and the Kwenta fee. Kwenta fee parameters will be controlled through governance. Fees will initially be sent to the treasury until a token is launch and a distribution mechanism is detailed.
+Fees are charged for each advanced order executed. There are two new fees users are accountable for, the keeper fee (gelato) and the Kwenta fee. Kwenta fee parameters will be controlled through governance. Fees will initially be sent to the treasury.
 
 | Order Type  | Kwenta Fee | Keeper Fee |
 | ----------- | ---------- | ---------- |
