@@ -8,7 +8,7 @@ created: 2022-06-30
 
 ## Summary
 
-Advanced orders introduce to new trading strategies for futures.
+Advanced orders to make possible new trading strategies for futures.
 
 ## Abstract
 
