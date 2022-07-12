@@ -30,7 +30,7 @@ Cross margin is achieved by bundling together the margin step and the trade step
     - To manage positions on **a singular asset**:
         - By opening BTC position without having to perform two transactions.
         - By opening BTC position using the margin from closing a LINK position.
-    - To manage posiitons on **a basket of assets**:
+    - To manage positons on **a basket of assets**:
         - By opening positions across many markets in one step.
         - By rebalancing all assets at once to keep leverage constant and avoid liquidation
     - To speculate on the **ratio between two asset prices**:
@@ -78,7 +78,7 @@ An expectation of typical cross margin is rebalancing. This iteration does not i
 
 The margin account (and respectively cross margin) system could be extended to support a one-to-many (EOA -> margin account**s**) mapping. This would enable multiple positions per singular market per user. For example, a trader could open a 10x position in both directions to bet on market volatility (with an expectation that one position will be liquidated).
 
-Another potential feature is the ability to allow keepers to "top up" margin on nearly liquidated positions. Margin would be drawn from the margin account (idle margin). Enabling automatic top off could keep deliquent positions afloat during turbulent trading sessions. This would require an integration with Gelato and external access to trader margins.
+Another potential feature is the ability to allow keepers to "top up" margin on nearly liquidated positions. Margin would be drawn from the margin account (idle margin). Enabling automatic top off could keep delinquent positions afloat during turbulent trading sessions. This would require an integration with Gelato and external access to trader margins.
 
 ## Copyright
 
