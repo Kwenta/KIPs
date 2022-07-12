@@ -30,7 +30,7 @@ Cross margin is achieved by bundling together the margin step and the trade step
     - To manage positions on **a singular asset**:
         - By opening BTC position without having to perform two transactions.
         - By opening BTC position using the margin from closing a LINK position.
-    - To manage positons on **a basket of assets**:
+    - To manage positions on **a basket of assets**:
         - By opening positions across many markets in one step.
         - By rebalancing all assets at once to keep leverage constant and avoid liquidation
     - To speculate on the **ratio between two asset prices**:
