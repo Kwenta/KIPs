@@ -8,7 +8,7 @@ created: 2022-07-25
 
 ## Summary
 
-Add Web Analytics to Kwenta which allow anonymized tracking of traffic sources and dapp useage. 
+Add Web Analytics to Kwenta which allow anonymized tracking of traffic sources and dapp usage. 
 
 ## Abstract
 
