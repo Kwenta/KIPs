@@ -15,18 +15,19 @@ The Kwenta Sovereignty Phase will include liquidity mining rewards, a Futures co
 
 ## Motivation
 
-The purpose of the original sovereignty phase campaign remains and is to amplify the launch of Futures, Kwenta mobile design, cross margin, complex orders, and the Kwenta token, resulting in DAO growth and increased product usage., or an Elite Council member must step down/be removed. 
+The purpose of the original sovereignty phase campaign remains and is to amplify the launch of Futures, Kwenta mobile design, cross margin, complex orders, and the Kwenta token, resulting in DAO growth and increased product usage.
 
 ## Specification
 
 The Sovereignty Phase will take place over the course of 6 weeks:
 
 ** Week 1-2 (Complete) **
-The Kwenta Sovereignty Phase began on February 14th with the launch of the KWENTA Aelin raise as per KIP-9.
+The Kwenta Sovereignty Phase began on February 14th with the launch of the KWENTA Aelin raise as per KIP-9 and has been completed.
 
 ** Week 3 (Oct 3rd -  Oct10th) **
 
-On Monday, October 3rd, Round 1 of the Futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of PNL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
+On Monday, October 3rd, Round 1 of the Futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
+
 The round one prize pool will include 144 KWENTA:
 * 1st place: 15 KWENTA + Rare Kwenta NFT
 * 2nd place: 10 KWENTA + Rare Kwenta NFT
@@ -38,7 +39,8 @@ All active participants will be eligible for a POAP as well.
 
 **Week 4 (Oct10 - Oct17th )**
 
-On Monday, October 17th, a second round of the Futures competition will be held where everyone starts on equal footing. By hosting a second round the following week, people who found out about the Futures competition late will be able to still participate without being at a disadvantage. The week-long competition will be held where participants will compete to generate the most amount of PNL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
+On Monday, October 17th, a second round of the Futures competition will be held where everyone starts on equal footing. By hosting a second round the following week, people who found out about the Futures competition late will be able to still participate without being at a disadvantage. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
+
 The round two prize pool will include 1595 KWENTA:
 * 1st place: 250 KWENTA + Rare Kwenta NFT
 * 2nd place: 125 KWENTA + Rare Kwenta NFT
@@ -59,7 +61,7 @@ The Kwenta token will launch and be claimable on L2 for SNX stakers and Synth tr
 
 **Kwenta/ETH Pool**
 
-The release of the $KWENTA token is an exciting moment for the Kwenta DAO. Upon launch, there needs to be both fee capture from trades as well as liquidity available for the token. LP rewards will be available for those that contribute to the Optimism Uni V3 $KWENTA/ETH pool for the next four weeks. Therefore, we are going to reward those LPs utilizing full range positions, similar to a V2 Uni pool. Liquidity incentives will be reviewed at the end of the initial period and either continued as is, adjusted, or discontinued. 783.43 KWENTA will be available for this opportunity.
+The release of the $KWENTA token is an exciting moment for the Kwenta DAO. Upon launch, there needs to be both fee capture from trades as well as liquidity available for the token. LP rewards will be available for those that contribute to the Optimism Uniswap V3 $KWENTA/ETH pool for the next four weeks. Therefore, we are going to reward those LPs utilizing full range positions, similar to a V2 Uniswap pool. Liquidity incentives will be reviewed at the end of the initial period and either continued as is, adjusted, or discontinued. 783.43 KWENTA will be available for this opportunity.
 
 **Pool Details:**
 
@@ -73,7 +75,7 @@ The release of the $KWENTA token is an exciting moment for the Kwenta DAO. Upon 
 
 **Council Elections**
 
-Marking a significant shift in Kwenta Governance, the first $KWENTA token vote will be available on Snapshot once the token goes live. Kwenta utilizes a delegative governance structure, where a council of 5 representative council members vote to make decisions on behalf of the DAO by voting on KIPs on behalf of $KWENTA holders. See KIP-24 for more details.
+Marking a significant shift in Kwenta Governance, the first $KWENTA token vote will be available on Snapshot once the token goes live. Kwenta utilizes a delegative governance structure, where a council of 5 representative council members vote to make decisions on behalf of the DAO by voting on KIPs on behalf of $KWENTA holders. See [KIP-24](https://kips.kwenta.io/kips/kip-24/) for more details.
 
 
 ## Copyright
