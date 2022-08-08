@@ -22,6 +22,7 @@ The purpose of the original sovereignty phase campaign remains and is to amplify
 The Sovereignty Phase will take place over the course of 6 weeks:
 
 **Week 1-2 (Complete)**
+
 The Kwenta Sovereignty Phase began on February 14th with the launch of the KWENTA Aelin raise as per KIP-9 and has been completed.
 
 **Week 3 (Oct 3rd -  Oct10th)**
