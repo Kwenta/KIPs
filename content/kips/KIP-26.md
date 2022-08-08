@@ -25,7 +25,7 @@ The Sovereignty Phase will take place over the course of 6 weeks:
 
 The Kwenta Sovereignty Phase began on February 14th with the launch of the KWENTA Aelin raise as per KIP-9 and has been completed.
 
-**Week 3 (Oct 3rd -  Oct10th)**
+**Week 3 (Oct 3rd -  Oct 10th)**
 
 On Monday, October 3rd, Round 1 of the Futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
 
@@ -38,7 +38,7 @@ The round one prize pool will include 144 KWENTA:
 
 All active participants will be eligible for a POAP as well.
 
-**Week 4 (Oct10 - Oct17th )**
+**Week 4 (Oct10 - Oct 17th )**
 
 On Monday, October 17th, a second round of the Futures competition will be held where everyone starts on equal footing. By hosting a second round the following week, people who found out about the Futures competition late will be able to still participate without being at a disadvantage. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
 
@@ -56,7 +56,7 @@ All active participants will be eligible for a POAP as well.
 
 Kwenta V2 will launch trading rewards. Rewards will be computed off-chain and sent out after the end of the month through a distribution contract.
 
-**Week 6 (November 1st - December 1st)**
+**Week 6 (Nov 1st - Dec 1st)**
 
 The Kwenta token will launch and be claimable on L2 for SNX stakers and Synth traders. Pool contributors that participated in the Aelin raise and received $vKWENTA as outlined in KIP-9, will be able to redeem their $vKWENTA for $KWENTA now. All rewards earned during the Sovereignty Phase will be distributed to participants on November 1st, when the token officially launches, with the exception of ongoing LP rewards.
 
