@@ -21,10 +21,10 @@ The purpose of the original sovereignty phase campaign remains and is to amplify
 
 The Sovereignty Phase will take place over the course of 6 weeks:
 
-** Week 1-2 (Complete) **
+**Week 1-2 (Complete)**
 The Kwenta Sovereignty Phase began on February 14th with the launch of the KWENTA Aelin raise as per KIP-9 and has been completed.
 
-** Week 3 (Oct 3rd -  Oct10th) **
+**Week 3 (Oct 3rd -  Oct10th)**
 
 On Monday, October 3rd, Round 1 of the Futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
 
