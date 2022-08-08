@@ -38,7 +38,7 @@ The round one prize pool will include 144 KWENTA:
 
 All active participants will be eligible for a POAP as well.
 
-**Week 4 (Oct10 - Oct 17th )**
+**Week 4 (Oct 10th - Oct 17th )**
 
 On Monday, October 17th, a second round of the Futures competition will be held where everyone starts on equal footing. By hosting a second round the following week, people who found out about the Futures competition late will be able to still participate without being at a disadvantage. The week-long competition will be held where participants will compete to generate the most amount of PnL calculated as a normalized percentage with Kwenta’s Futures product, working their way as high up the leaderboard as possible.
 
@@ -52,7 +52,7 @@ The round two prize pool will include 1595 KWENTA:
 
 All active participants will be eligible for a POAP as well.
 
-**Week 5 (Oct 24th- Oct 31st)**
+**Week 5 (Oct 24th - Oct 31st)**
 
 Kwenta V2 will launch trading rewards. Rewards will be computed off-chain and sent out after the end of the month through a distribution contract.
 
