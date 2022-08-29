@@ -94,8 +94,8 @@ At the start these fees will be set to 0. All advanced orders are subject to cro
 
 | Order Type  | Kwenta Fee | Keeper Fee |
 | ----------- | ---------- | ---------- |
-| Limit       | 0bp        | Dependent on network congestion (ETH)  |
-| Stop        | 0bp        | Dependent on network congestion (ETH)  |
+| Limit       | 3bp        | Dependent on network congestion (ETH)  |
+| Stop        | 3bp        | Dependent on network congestion (ETH)  |
 
 ## Copyright
 
