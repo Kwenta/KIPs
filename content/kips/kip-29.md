@@ -2,7 +2,7 @@
 kip: 29
 title: Copy Trading Account MVP
 status: Draft
-author: Troy (@tburm)
+author: Troy (@Tburm)
 created: 2022-09-08
 ---
 
