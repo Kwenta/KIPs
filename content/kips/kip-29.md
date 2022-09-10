@@ -27,7 +27,7 @@ By offering lucrative first steps which lower trading requirements, we can incre
 
 ## Specification
 
-**Tier 1 - Onboarding
+**Tier 1 - Onboarding**
 
 Amount: 200,000 $OP
 
@@ -39,7 +39,7 @@ Required actions:
 - Open a position worth at least $100 notional volume using a limit order
 - Verify authenticity in the Kwenta Discord
 
-**Tier 2 - Test Drive
+**Tier 2 - Test Drive**
 
 Amount: 200,000 $OP
 
@@ -52,7 +52,7 @@ Required actions:
 - At least 2 total trades must be triggered stop loss or limit orders
 - Generate a realized PnL of at least $100 in either direction
 
-**Bonus A - DYDX Trader Boost
+**Bonus A - DYDX Trader Boost**
 
 Amount: 100,000 $OP
 
@@ -64,7 +64,7 @@ Required actions:
 - Complete Tier 2 requirements from a wallet which interacted with DYDX prior to September 1st, 2022 to earn 25 additional $OP.
 *September 1st, 2022 will be defined as beginning with ETH mainnet block 15449618.
 
-**Bonus B - Optimism Quest Boost
+**Bonus B - Optimism Quest Boost**
 
 Amount: 100,000 $OP
 
@@ -92,7 +92,6 @@ The following actions may result in a wallet being permanently disqualified from
 Rewards from each tier will be distributed to the first 2,000 unique users to complete each step of the required steps. In the case that $OP tokens have not been claimed 180 days after the launch of the incentive program, tokens may be clawed back and used at the discretion of the treasury for future incentive programs or marketing initiatives.
 
 The Kwenta Elite Council may change any of the parameters of this proposal at any time with a majority vote.
- 
 
 ## Copyright 
 
