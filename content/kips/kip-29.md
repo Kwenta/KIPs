@@ -96,7 +96,7 @@ The following actions may result in a wallet being permanently disqualified from
 
 **Maximum eligible users**
 
-Rewards from each tier will be distributed to the first 2,000 unique users to complete each step of the required steps. In the case that $OP tokens have not been claimed 180 days after the launch of the incentive program, tokens may be clawed back and used at the discretion of the treasury for future incentive programs or marketing initiatives.
+Rewards from each tier will be distributed to the first 2,000 unique users to complete each individual bounty, or collect each bonus. In the case that $OP tokens have not been claimed 180 days after the launch of the incentive program, tokens may be clawed back and used at the discretion of the treasury for future incentive programs or marketing initiatives.
 
 ## Copyright 
 
