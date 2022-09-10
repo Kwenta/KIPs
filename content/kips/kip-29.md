@@ -77,9 +77,14 @@ Required actions:
 
 # Additional Specifications
 
+**Dependencies**
+
 All on-chain actions will be dependent on the launch of Kwenta cross margin functionality, currently scheduled for launch in mid-October, and users may begin completing on-chain actions immediately following this launch.
 
 Users will be able to claim $OP tokens at a later date, which is dependent on the $KWENTA token launch and completion of the token claim UI.
+
+**Disqualification**
+
 The following actions may result in resetting a wallet’s progress on the tiered incentive program:
 
 - Withdrawing from the cross margin wallet.
@@ -89,9 +94,9 @@ The following actions may result in a wallet being permanently disqualified from
 
 - Removal from Discord due to being flagged as a bot or malicious user.
 
-Rewards from each tier will be distributed to the first 2,000 unique users to complete each step of the required steps. In the case that $OP tokens have not been claimed 180 days after the launch of the incentive program, tokens may be clawed back and used at the discretion of the treasury for future incentive programs or marketing initiatives.
+**Maximum eligible users**
 
-The Kwenta Elite Council may change any of the parameters of this proposal at any time with a majority vote.
+Rewards from each tier will be distributed to the first 2,000 unique users to complete each step of the required steps. In the case that $OP tokens have not been claimed 180 days after the launch of the incentive program, tokens may be clawed back and used at the discretion of the treasury for future incentive programs or marketing initiatives.
 
 ## Copyright 
 
