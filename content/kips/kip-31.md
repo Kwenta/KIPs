@@ -26,10 +26,8 @@ development tool to improve the underlying protocol source code. While being wel
 of failure in the DAOs efforts to truly decentralize. While it currently might be
 utopic to strive for a full abandonment of Github, this KIP suggests a path for a gradual procession towards decentralized code collaboration. This is to ensure that in case of a force majeur event, the Kwenta protocol source code would not be dependent on one centralized entitity but always globally available in an open, permissionless manner. It is therefore suggested to ensure that the DAO considers to implement the following as a first step:
 
-* Automatization of the Kwenta frontend repository being mirrored from Github to
-the decentralized Radicle network
-* Elite Council vote on the decentralized project id which is to be officially
-endorsed and determines the delegate(s) for this project id
+* Automatization of the Kwenta frontend repository being mirrored from Github to the decentralized Radicle network
+* Elite Council vote on the decentralized project id which is to be officially endorsed and determines the delegate(s) for this project id
 
 This KIP should be seen as the first step on the path to independence from
 Github. The main objective of this envisioned path should be to eventually fully
