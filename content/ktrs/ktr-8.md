@@ -1,7 +1,7 @@
 ---
 ktr: 8
 title: adminDAO funding
-status: Approved
+status: Implemented
 author: Marko
 created: 2022-09-20
 ---
