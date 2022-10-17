@@ -12,11 +12,11 @@ Due to significant changes in the timeline of the Sovereignty Phase previously o
 
 ## Abstract
 
-1% of the KWENTA token supply at launch will be allocated to the Sovereignty Phase trading competition, totaling 3,133.73 KWENTA tokens. The allocation will be used for trading competition prizes, as well as related marketing initiatives where community members may earn tokens for trading in conjunction with additional participation in the DAO or community events. All KWENTA distributed from this allocation will be on a 1 year linear vesting schedule as described in KIP-34.
+1% of the KWENTA token supply at launch will be allocated to the Sovereignty Phase trading competition, totaling 3,133.73 KWENTA tokens. The allocation will be used for trading competition prizes, as well as related marketing initiatives where community members may earn tokens for trading in conjunction with additional participation in the DAO or community events. All KWENTA distributed from this allocation will be on a 1-year linear vesting schedule as described in KIP-34.
 
 ## Motivation
 
-The purpose of this campaign is to amplify the launch of cross margin, stop/limit orders, and the KWENTA token similar to the motivation described in KIP-10. Due to a significantly different overall timeline from when KIP-10 was passed, this update serves to not only adjust the allocation of KWENTA tokens and its use, but to ensure that implementation of the trading competition can still occur outside of the original dates specified. The trading competition structure and dates in this KIP also provide guidance for the community, but with more flexibility for contributors to administer the program and utilize incentives for related marketing initiatives, such as offering trading competition participants bonuses for detailed feedback and bug reports, which may be particularly valuable as this competition will be the first stress test after a major product release.
+The purpose of this campaign is to amplify the launch of cross-margin, stop/limit orders, and the KWENTA token similar to the motivation described in KIP-10. Due to a significantly different overall timeline from when KIP-10 was passed, this update not only adjusts the allocation of KWENTA tokens and their use but also ensures that implementation of the trading competition can still occur outside of the original dates specified. The trading competition structure and dates in this KIP also provide guidance for the community, but with more flexibility for contributors to administer the program and utilize incentives for related marketing initiatives, such as offering trading competition participants bonuses for detailed feedback and bug reports, which may be particularly valuable as this competition will be the first stress test after a major product release.
 
 ## Specification
 
@@ -34,7 +34,7 @@ The aforementioned token prizes will be allocated for the following purposes:
 
 All tokens from the allocation described will be distributed as locked on the same 1 year vesting schedule described in KIP-34. Addresses may be made ineligible for the trading competition at the discretion of core contributors if there is evidence of manipulation, abuse, or evidence that the trading did not occur through the Kwenta front end. Only users of the kwenta.eth.limo or kwenta.io will qualify for trading competition prizes.
 
-If approved, this KIP nullifies and replaces any KWENTA token allocation and rewards structure described in KIP-10 & 26 for the Soverignty Phase Trading Competition.
+If approved, this KIP nullifies and replaces any KWENTA token allocation and rewards structure described in KIP-10 & 26 for the Sovereignty Phase Trading Competition.
 
 ## Copyright
 
