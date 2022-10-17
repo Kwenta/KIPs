@@ -2,7 +2,7 @@
 kip: 38
 title: Sovereignty Phase Competition Update
 status: Draft
-author: Burt Rock (@BurtRock) Marko (@Marko-roy)
+author: Burt Rock (@BurtRock), Marko (@Markoroy)
 created: 2022-10-17
 ---
 
