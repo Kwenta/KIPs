@@ -2,7 +2,7 @@
 kip: 38
 title: Sovereignty Phase Competition Update
 status: Draft
-author: Burt Rock (@BurtRock)
+author: Burt Rock (@BurtRock) Marko (@Marko-roy)
 created: 2022-10-17
 ---
 
@@ -34,7 +34,7 @@ The aforementioned token prizes will be allocated for the following purposes:
 
 All tokens from the allocation described will be distributed as locked on the same 1 year vesting schedule described in KIP-34. Addresses may be made ineligible for the trading competition at the discretion of core contributors if there is evidence of manipulation, abuse, or evidence that the trading did not occur through the Kwenta front end. Only users of the kwenta.eth.limo or kwenta.io will qualify for trading competition prizes.
 
-If approved, this KIP nullifies and replaces any KWENTA token allocation and rewards structure described in KIP-10 for the Soverignty Phase Trading Competition.
+If approved, this KIP nullifies and replaces any KWENTA token allocation and rewards structure described in KIP-10 & 26 for the Soverignty Phase Trading Competition.
 
 ## Copyright
 
