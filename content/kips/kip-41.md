@@ -37,7 +37,7 @@ Below is a list of the roles that have provided value to the Kwenta DAO’s deve
 * Kwenta Elites (30) - 900 $KWENTA 
 * Kwenta Competition NFT Holders (12) - 60 $KWENTA
 * OG POAP (87) - 87 $KWENTA
-* Marketing Ticket Completors (9) - 63 $KWEN TA
+* Marketing Ticket Completors (9) - 63 $KWENTA
 
 
 With a supply of 313373, the above allocation amounts to about 1.32% of the initial supply, and will come from the 15% allocated to CCs. All Kwenta tokens are subject to a 1 year vesting period.
