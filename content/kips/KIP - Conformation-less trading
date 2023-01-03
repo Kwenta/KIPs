@@ -1,0 +1,11 @@
+Summary
+CEX like trading experience by eliminating wallet confirmations.
+
+Abstract
+A trader will be able to interact with the Kwenta protocol (for example: place a market/limit buy order) without wallet confirmations.
+
+Motivation
+Confirmation-less execution will improve user experience, especially for frequent traders.
+
+Specification
+Trader preloads gas fees and starts trading. 
