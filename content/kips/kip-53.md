@@ -1,5 +1,5 @@
 ---
-kip: 52
+kip: 53
 title: Integrate Socket Plugin
 status: Draft
 author: Synthquest
