@@ -1,5 +1,5 @@
 ---
-kip: 56
+kip: 58
 title: Staking V2
 status: Draft
 author: Jeremy Chiaramonte (@JChiaramonte7)
