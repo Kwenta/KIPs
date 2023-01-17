@@ -1,5 +1,5 @@
 ---
-kip: 56
+kip: 57
 title: Remove fees for Cross Margin V1
 status: Draft
 author: Troy (@tburm)
