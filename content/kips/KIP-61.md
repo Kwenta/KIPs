@@ -24,13 +24,14 @@ Providing third parties with access to the Lyra protocol and liquidity to suppor
 
 ## Specification
 During the Pilot:
-Lyra DAO’s role Lyra DAO will provide Kwenta DAO with:
+
+Lyra will provide Kwenta with:
 * Access to the Lyra interface to develop and host its own interface (the Kwenta Interface);
 * Access to the Lyra protocol to support the Kwenta Interface;
 * A grant of  400,000 LYRA to undertake the Pilot, to be paid linearly in monthly installments (subject to Lyra DAO review throughout the Pilot);
 Support from Lyra DAO Core Contributors, including weekly meetings, open ended sync communications channels and technical support for disruptions between Kwenta Interface and the Lyra protocol.
 
-Kwenta DAO’s role Kwenta DAO will:
+Kwenta will:
 * Develop and host the Kwenta Interface to be made available to Kwenta users on the Kwenta exchange (kwenta.eth.limo);
 * Deploy the Kwenta Interface to provide users with access to Lyra sourced options only;
 * Not charge any additional fees to users accessing the Lyra protocol through the Kwenta Interface;
