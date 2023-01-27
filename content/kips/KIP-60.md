@@ -1,5 +1,5 @@
 ---
-kip: 61 
+kip: 60
 title: Lyra Hosting Pilot
 status: Draft
 author: MasterMojo (@MasterMojo)
