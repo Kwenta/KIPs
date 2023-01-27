@@ -1,3 +1,11 @@
+---
+kip: 61 
+title: Lyra Hosting Pilot
+status: Draft
+author: MasterMojo (@MasterMojo)
+created: 2023-01-26
+---
+
 ## Summary
 This KIP agrees to the terms defined in LEAP-43 approved by the Lyra Council, and proposed by the Kwenta DAO. 
 
